@@ -3,7 +3,9 @@
     "project": "FETHKA",
     "policies": [
       "37c19eca0d623d804bfeb8951bf1eb0f7fe193deeb71793985dbd25q",
-      "0f09b285f1d8d1608dfff1f40f047d3d5a27489aef0f05c49ec99379"
+      "0f09b285f1d8d1608dfff1f40f047d3d5a27489aef0f05c49ec99379",
+      "9042a76af36e9ac3e98370f8dd81c764869daf1afbaf00ec6b2d69ac",
+      "820f773b00f51c139b33c93f6878bcde22596ac0828388992b256049"
     ]
   }
 ]
